@@ -2412,9 +2412,13 @@ input, select, textarea {
 			}
 
 			
-			/*      problem        */
-			.image {
-				width: 100px;
+
+			.row.aln-center .col-4.col-6-medium.col-12-small .box.style1 .image.fit.icon.featured {
+				width: 15rem;
+				margin-left: 3rem;
+				margin-top: 1rem;
+			
+		
 				
 
 			}
