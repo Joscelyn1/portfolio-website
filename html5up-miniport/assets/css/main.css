@@ -2203,6 +2203,8 @@ input, select, textarea {
 					margin: 0;
 				}
 
+			
+
 	}
 
 /* Medium */
@@ -2407,6 +2409,14 @@ input, select, textarea {
 
 			#contact footer {
 				margin: 0;
+			}
+
+			
+			/*      problem        */
+			.image {
+				width: 100px;
+				
+
 			}
 
 		/* Copyright */
