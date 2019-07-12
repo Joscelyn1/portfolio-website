@@ -2457,4 +2457,9 @@ input, select, textarea {
 
 	.twitter {
 		width: 40px !important;
+		padding-right: 10px;
+	}
+
+	.links {
+		display: flex;
 	}
