@@ -1395,6 +1395,7 @@ input, select, textarea {
 
 				.row > .col-12-small {
 					width: 100%;
+					
 				}
 
 				.row > .off-12-small {
@@ -2367,6 +2368,7 @@ input, select, textarea {
 					max-width: 32em;
 					margin-left: auto !important;
 					margin-right: auto !important;
+					
 				}
 
 		/* Wrappers */
@@ -2445,4 +2447,15 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+
+
+
+	.box {
+		height: 600px !important;
+	}
+
+	.twitter {
+		width: 40px !important;
+		padding-right: 10px;
 	}
