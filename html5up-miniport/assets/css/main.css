@@ -2461,5 +2461,5 @@ input, select, textarea {
 	}
 
 	.links {
-		display: flex;
+		display: flex !important;
 	}
